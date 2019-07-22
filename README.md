@@ -1,10 +1,15 @@
 # My Git Project
 
-My merge edit style
+> My innocent little change
 
-My code for the git project
+## I'm in the feature branch 
 
-another code change
-  
-  
-  new changes for demp diff lesson
+>Added to master again
+
+> Made changes for git pull demo
+
+> Made more changes for git pull/ fetch demo
+
+> Made more changes for git pull/ fetch demo
+
+
